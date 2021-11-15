@@ -31,15 +31,7 @@ Our website is ...
 ### [Link to Sprint 0]()
 
 
-## Week 1
-| Name | Tasks |
-|:-----|:-----:|
-
-## Week 2
-| Name | Tasks |
-|:-----|:-----:|
-
-## Week 3
+## Week 0
 | Name | Tasks |
 |:-----|:-----:|
 

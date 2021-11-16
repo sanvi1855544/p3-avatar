@@ -7,7 +7,7 @@ Our website is ...
 ## Contributors
 | Name | GitHub ID and Profile | Commits |
 |:-----|:----------------------:|:-------:|
-| Ellen Xu (Technical Officer)| [@xu-ellen](https://github.com/xu-ellen) | (https://github.com/peacekeeper6)| [Commits]() 
+| Ellen Xu (Technical Officer)| [@xu-ellen](https://github.com/xu-ellen) | [Commits](https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen) 
 | Sanvi Pal (GitHub Admin)| [@sanvi1855544](https://github.com/sanvi1855544)| [Commits]()
 | Kashish Chopra (Project Manager) | [@kashishchopraa](https://github.com/kashishchopraa) |[Commits]()
 | Gennalyn Bongolan (Scrum Master)| [@Gennalynb123](https://github.com/Gennalynb123) |[Commits]()

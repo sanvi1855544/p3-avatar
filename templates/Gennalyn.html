@@ -1,0 +1,35 @@
+{% extends "layouts/base.html" %}
+
+{% block meta %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+{% endblock %}
+
+{% block content %}
+
+    <h1>Gennalyn Bongolan</h1>
+    <p>Hi! I'm a junior, class of 2023 at Del Norte High School! </p>
+
+
+
+    <br><a class="button" href="https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing">Pair Share Journal</a></br>
+    <br><a class="button" href="https://github.com/sanvi1855544/p3-avatar/commits?author=Gennalynb123">Individual Commits</a></br>
+
+    <img id="myImage" onclick="changeImage()" src="/static/images/gennalyn.png"" width="500" height="900">
+
+
+    <script>
+        function changeImage() {
+            var image = document.getElementById('myImage');
+            if (image.src.match("/static/images/gennalyn.png")) {
+                image.src = "/static/images/watermelon.png";
+            } else {
+                image.src = "/static/images/gennalyn.png";
+            }
+        }
+    </script>
+
+
+
+{% endblock %}

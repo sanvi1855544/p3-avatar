@@ -24,5 +24,5 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 
 ## Week 0
 | Name | Tasks |
-|:-----|:-----:|
+|:Kashish|:-----:|
 

@@ -8,6 +8,25 @@
 
 {% block content %}
 
-    <h1>Avatar</h1>
+    <h1>
+        <blockquote><blockquote>
+            <body>
+
+            <img id="myImage" onclick="changeImage()" src="/static/images/mountains.png"" width="100" height="180">
+
+
+            <script>
+                function changeImage() {
+                    var image = document.getElementById('myImage');
+                    if (image.src.match("/static/assets/saumyaimages/mountains.png")) {
+                        image.src = "/static/assets/saumyaimages/beach.png";
+                    } else {
+                        image.src = "/static/assets/saumyaimages/mountains.png";
+                    }
+                }
+            </script>
+            <blockquote>
+            </body>
+    </h1>
 
 {% endblock %}

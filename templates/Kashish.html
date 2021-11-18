@@ -12,16 +12,16 @@
         <blockquote><blockquote>
             <body>
 
-            <img id="myImage" onclick="changeImage()" src="/static/images/mountains.png"" width="100" height="180">
+            <img id="myImage" onclick="changeImage()" src="/static/images/kashish.jpeg"" width="100" height="180">
 
 
             <script>
                 function changeImage() {
                     var image = document.getElementById('myImage');
-                    if (image.src.match("/static/assets/saumyaimages/mountains.png")) {
-                        image.src = "/static/assets/saumyaimages/beach.png";
+                    if (image.src.match("/static/images/mountains.png")) {
+                        image.src = "/static/images/beach.png";
                     } else {
-                        image.src = "/static/assets/saumyaimages/mountains.png";
+                        image.src = "/static/images/mountains.png";
                     }
                 }
             </script>

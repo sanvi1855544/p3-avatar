@@ -9,7 +9,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 |:-----|:----------------------:|:-------:|
 | Ellen Xu (Technical Officer)| [@xu-ellen](https://github.com/xu-ellen) | [Commits](https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen) 
 | Sanvi Pal (GitHub Admin)| [@sanvi1855544](https://github.com/sanvi1855544)| [Commits](https://github.com/sanvi1855544/p3-avatar/commits?author=sanvi1855544)
-| Kashish Chopra (Project Manager) | [@kashishchopraa](https://github.com/kashishchopraa) |[Commits]()
+| Kashish Chopra (Project Manager) | [@kashishchopraa](https://github.com/kashishchopraa) |[Commits](https://github.com/sanvi1855544/p3-avatar/commits?author=kashishchopraa)
 | Gennalyn Bongolan (Scrum Master)| [@Gennalynb123](https://github.com/Gennalynb123) |[Commits](https://github.com/sanvi1855544/p3-avatar/commits?author=Gennalynb123)
 
 ## Pair Share Journals

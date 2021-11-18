@@ -8,10 +8,17 @@
 
 {% block content %}
 
-<h1>Ellen</h1>
+<style>
+    .forecast {
+        font-family: 'Roboto Mono', 'Consolas', 'Menlo', monospace;
+        font-size: 20px;
+    }
+</style>
+
+<h1 style="background-color:#778da9;text-align:center">Ellen</h1><br>
 
 <div id="weather">
-    <h3>Weather</h3>
+    <h4>Check the Weather!</h4>
     <div class="forecast">
         <p class="vertical-bottom">
             <button type="button" onclick="fetchForecast()">Fetch</button>

@@ -22,6 +22,16 @@ def Ellen():
 def Sanvi():
     return render_template("Sanvi.html") #"Avatar Website"
 
+@app.route("/FindYourNation/")
+def FindYourNation():
+    return render_template("FindYourNation.html")
+
+@app.route("/Training/")
+def Training():
+    return render_template("Training.html")
+
+
+
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=8080)
 

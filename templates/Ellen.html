@@ -17,6 +17,20 @@
 
 <h1 style="background-color:#778da9;text-align:center">Ellen</h1><br>
 
+<h3>Click the image to toggle!</h3>
+<img id="myImage" onclick="changeImage()" src="/static/images/ellen_mask.JPG" width="200" height="200"><br>
+
+<script>
+    function changeImage() {
+        var image = document.getElementById('myImage');
+        if (image.src.match("/static/images/ellen_mask.JPG")) {
+            image.src = "/static/images/ellen.JPG";
+        } else {
+            image.src = "/static/images/ellen_mask.JPG";
+        }
+    }
+</script>
+
 <div id="weather">
     <h4>Check the Weather!</h4>
     <div class="forecast">
@@ -69,5 +83,8 @@
             });
     };
 </script>
+
+<a class="button" href="https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing">Pair Share Journal</a></br>
+<a class="button" href="https://github.com/sanvi1855544/p3-avatar/commits?author=xu-ellen">Individual Commits</a></br>
 
 {% endblock %}

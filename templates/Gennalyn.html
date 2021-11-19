@@ -8,6 +8,15 @@
 
 {% block content %}
 
+    <style>
+        .forecast {
+            font-family: 'Roboto Mono', 'Consolas', 'Menlo', monospace;
+            font-size: 20px;
+        }
+    </style>
+
+    <h1 style="background-color:#D596E0;text-align:center">Gennalyn</h1><br>
+
     <head>
         <title>Web Form With Language Translation</title>
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
@@ -72,13 +81,18 @@
             }
         </script>
     </head>
+
+
     <body>
+
     <div class="container">
         <div class="row">
             <div class="col-sm">
 
             </div>
-            <div class="col-sm">
+
+
+            <div class="col-sm" style="background-color:#DAF7A6 ;text-align:center">
                 <div class="btn-group dropright translate">
                     <button id="langSel" type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Translate to
@@ -86,6 +100,9 @@
                     <div class="dropdown-menu translate-option">
                         <a class="dropdown-item" href="#" tolang="en">English (default)</a>
                         <a class="dropdown-item" href="#" tolang="ja">Japanese</a>
+                        <a class="dropdown-item" href="#" tolang="es">Spanish</a>
+                        <a class="dropdown-item" href="#" tolang="ko">Korean</a>
+                        <a class="dropdown-item" href="#" tolang="th">Thai</a>
 
                     </div>
                 </div>
@@ -106,8 +123,16 @@
 
 
 
-    <p>Gennalyn Bongolan</p>
-    <p>Hi! I'm a junior, class of 2023 at Del Norte High School! </p>
+    <style>
+        .forecast {
+            font-family: 'Roboto Mono', 'Consolas', 'Menlo', monospace;
+            font-size: 20px;
+        }
+    </style>
+
+    <h2 style="background-color:#DAF7A6 ;text-align:center">Hello! I'm a junior here at Del Norte high school, class of
+        2023! You can try out this google translate API that I incorporated up above! You can translate hello to either
+        Spanish, Korean, Japanese, or Thai. </h2><br>
 
 
 

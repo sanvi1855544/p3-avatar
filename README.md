@@ -19,7 +19,12 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 
 
 ## [Sprint 0 - Introduction]
-### [Link to Sprint 0]()
+### [About Me Page (Kashish)](https://github.com/sanvi1855544/p3-avatar/issues/4)
+### [About Me Page (Ellen)](https://github.com/sanvi1855544/p3-avatar/issues/2)
+### [About Me Page (Sanvi)](https://github.com/sanvi1855544/p3-avatar/issues/3)
+### [About Me Page (Gennalyn)](https://github.com/sanvi1855544/p3-avatar/issues/1)
+### [Wireframe](https://github.com/sanvi1855544/p3-avatar/issues/5)
+
 
 
 ## Week 0

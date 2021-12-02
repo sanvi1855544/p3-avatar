@@ -17,8 +17,17 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 ### [Pair 2 Journal]()
 
 
+## [Week 1]
+### [Wireframe](https://github.com/sanvi1855544/p3-avatar/issues/5)
+### [Brainwrites](https://github.com/sanvi1855544/p3-avatar/wiki/Brainwrites-for-website)
+### [10-12 Key Ideas](https://github.com/sanvi1855544/p3-avatar/wiki/10-to-12-Key-Ideas)
+### [Management Policies](https://github.com/sanvi1855544/p3-avatar/wiki/Management-Plan)
+### [Github Policies](https://github.com/sanvi1855544/p3-avatar/wiki/Github-Policy)
+### [Deployment Plan]()
+### [Scrum Broad](https://github.com/sanvi1855544/p3-avatar/projects/1)
 
-## [Sprint 0 - Introduction]
+
+## [Week 0]
 ### [About Me Page (Kashish)](https://github.com/sanvi1855544/p3-avatar/issues/4)
 ### [About Me Page (Ellen)](https://github.com/sanvi1855544/p3-avatar/issues/2)
 ### [About Me Page (Sanvi)](https://github.com/sanvi1855544/p3-avatar/issues/3)
@@ -27,7 +36,5 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 
 
 
-## Week 0
-| Name | Tasks |
-|:Kashish|:-----:|
+\
 

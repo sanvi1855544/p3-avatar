@@ -20,7 +20,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 ## [Week 1]
 | Project Review | Links/Requirements |
 |:-----|:----------------------:|
-| Design| [brain write](https://github.com/sanvi1855544/p3-avatar/wiki/Brainwrites-for-website), [Wire Frame](https://github.com/sanvi1855544/p3-avatar/issues/5) | 
+| Design| [Wiki theme](), [brain write](https://github.com/sanvi1855544/p3-avatar/wiki/Brainwrites-for-website), [Wire Frame](https://github.com/sanvi1855544/p3-avatar/issues/5) | 
 | Technials| [10-12 Key Ideas](https://github.com/sanvi1855544/p3-avatar/wiki/10-to-12-Key-Ideas)| 
 | Github | [Management Policies](https://github.com/sanvi1855544/p3-avatar/wiki/Management-Plan), [Github Policies](https://github.com/sanvi1855544/p3-avatar/wiki/Github-Policy) |
 | Deployment| [Wiki Plan/Hardware and Frequency]() |

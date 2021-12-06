@@ -1,6 +1,6 @@
 # AP Computer Science Principles Period 3: Avatar
 Our website goal is to help relieve the stress of students here at Del Norte. At this school, there is a large emphasis on academics and APs, which lead to the majority of the students here having lots of stress and anxiety. This website aims to relieve that through interactive mini games which will follow the theme of the nostalgic cartoon, Avatar, which most students here at Del Norte have watched.
-# Welcome to our Avatar themed website! We had a wondersful assortment of games like Hangman and the dinosaur game. But first you will need to choose an Avatar. Are you fire nation, water nation, earth nation, or air nation? Or are you the avatar??
+# Welcome to our Avatar themed website! We had a wonderful assortment of games like Hangman and the dinosaur game. But first you will need to choose an Avatar. Are you fire nation, water nation, earth nation, or air nation? Or are you the avatar??
 ## [Scrum Board](https://github.com/sanvi1855544/p3-avatar/projects/1)
 ## [Insights with Contributors and Commits]()
 

@@ -18,13 +18,15 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 
 
 ## [Week 2]
-| Name | Task |
+| Project Review | Task |
 |:-----|:----------------------:|
-| Ellen Xu | [@xu-ellen](https://github.com/sanvi1855544/p3-avatar/issues/2) | 
-| Sanvi Pal | [@sanvi1855544](https://github.com/sanvi1855544/p3-avatar/issues/3)| 
-| Kashish Chopra | [@kashishchopraa](https://github.com/sanvi1855544/p3-avatar/issues/4) |
-| Gennalyn Bongolan | [@Gennalynb123](https://github.com/sanvi1855544/p3-avatar/issues/1) |
-| Deployment Link | [Avatar Website] ()|
+| Ellen Xu About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/2) | 
+| Sanvi Pal About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/3)| 
+| Kashish Chopra About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/4) |
+| Gennalyn Bongolan About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/1) |
+| Deployment Link About Page | [Avatar] ()|
+| TPT quiz screenshots/corrections | [Gennalyn/Kashish] (https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing), [Ellen/Sanvi]()|
+| Create Task Plan | [Sanvi] (), [Kashish] (), [Ellen] (), [Gennalyn] ()|
 
 ## [Week 1]
 | Project Review | Links/Requirements |

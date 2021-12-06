@@ -24,7 +24,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | Sanvi Pal About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/3)| 
 | Kashish Chopra About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/4) |
 | Gennalyn Bongolan About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/1) |
-| Deployment Link About Page | [Avatar] ()|
+| Deployment Link About Page | [Avatar]()|
 | TPT quiz screenshots/corrections | [Gennalyn/Kashish](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing), [Ellen/Sanvi]()|
 | Create Task Plan | [Sanvi](), [Kashish](), [Ellen](), [Gennalyn]()|
 

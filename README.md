@@ -17,6 +17,15 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 ### [Pair 2 Journal]()
 
 
+## [Week 2]
+| Name | Task |
+|:-----|:----------------------:|
+| Ellen Xu | [@xu-ellen](https://github.com/sanvi1855544/p3-avatar/issues/2) | 
+| Sanvi Pal | [@sanvi1855544](https://github.com/sanvi1855544/p3-avatar/issues/3)| 
+| Kashish Chopra | [@kashishchopraa](https://github.com/sanvi1855544/p3-avatar/issues/4) |
+| Gennalyn Bongolan | [@Gennalynb123](https://github.com/sanvi1855544/p3-avatar/issues/1) |
+| Deployment Link | [Avatar Website] ()|
+
 ## [Week 1]
 | Project Review | Links/Requirements |
 |:-----|:----------------------:|

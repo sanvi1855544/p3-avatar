@@ -14,7 +14,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 
 ## Pair Share Journals
 ### [Pair 1 Journal (Gennalyn and Kashish)](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing)
-### [Pair 2 Journal]()
+### [Pair 2 Journal (Ellen and Sanvi)](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing)
 
 
 ## [Week 2]
@@ -24,9 +24,9 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | Sanvi Pal About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/3)| 
 | Kashish Chopra About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/4) |
 | Gennalyn Bongolan About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/1) |
-| Deployment Link About Page | [Avatar]()|
-| TPT quiz screenshots/corrections | [Gennalyn/Kashish](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing), [Ellen/Sanvi]()|
-| Create Task Plan | [Sanvi](), [Kashish](), [Ellen](), [Gennalyn]()|
+| Deployment Link | [Avatar]()|
+| TPT quiz screenshots/corrections | [Gennalyn/Kashish](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing), [Ellen/Sanvi](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing)|
+| Create Task Plan | [Sanvi](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit#bookmark=id.56rkhuyb3tx8), [Kashish](), [Ellen](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit#bookmark=id.56rkhuyb3tx8), [Gennalyn](https://docs.google.com/document/d/13ZNmSCC5W7jhd1W1TpFOIpgeJjYzPF5GXYxsItYlnfc/edit?usp=sharing)|
 
 ## [Week 1]
 | Project Review | Links/Requirements |

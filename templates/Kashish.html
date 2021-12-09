@@ -12,8 +12,8 @@
         <blockquote><blockquote>
             <body>
 
+            <h1 style="background-color:#778da9;text-align:center">Kashish </h1><br>
 
-            <h1>Kashish Chopra</h1>
             <p>Hi! I'm a senior, class of 2022 at Del Norte High School! </p>
 
 
@@ -34,8 +34,31 @@
                     }
                 }
             </script>
-            <blockquote>
-            </body>
+
+            <h2>JavaScript Gelocation</h2>
+
+            <p>Click the button to get your coordinates.</p>
+
+            <button onclick="getLocation()">Try It</button>
+
+            <p id="demo"></p>
+
+            <script>
+                const x = document.getElementById("demo");
+
+                function getLocation() {
+                    try {
+                        navigator.geolocation.getCurrentPosition(showPosition);
+                    } catch {
+                        x.innerHTML = err;
+                    }
+                }
+
+                function showPosition(position) {
+                    x.innerHTML = "Latitude: " + position.coords.latitude +
+                        "<br>Longitude: " + position.coords.longitude;
+                }
+            </script>
     </h1>
 
 {% endblock %}

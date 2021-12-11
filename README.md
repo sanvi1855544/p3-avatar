@@ -28,6 +28,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | Github Admin | Commits and pull requests completed by each individual |
 | TPT quiz screenshots/corrections | Ellen/Sanvi, Gennalyn/Kashish |
 | AP MCQ Test/Corrections | Ellen/Sanvi, Gennalyn/Kashish|
+| Technical Officer/Scrum Master | 1 minute video on Asynchronous Data Access |
 
 
 ## [Week 2]

@@ -17,6 +17,19 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 ### [Pair 2 Journal (Ellen and Sanvi)](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing)
 
 
+
+## [Week 3]
+| Project Review | Task |
+|:-----|:----------------------:|
+| Design Manager | Bootstrap layouts, 3 frontend screens with functionality toward Project Theme | 
+| Scrum Master | README, Tickets (Completed and Backlog), Wiki, expected backlog when returning from Winter Break | 
+| Technical Officer | Asynchronous access to a Database |
+| Deployment Manager | Website running from URL, process to perfrom an update |
+| Github Admin | Commits and pull requests completed by each individual |
+| TPT quiz screenshots/corrections | Ellen/Sanvi, Gennalyn/Kashish |
+| AP MCQ Test/Corrections | Ellen/Sanvi, Gennalyn/Kashish|
+
+
 ## [Week 2]
 | Project Review | Task |
 |:-----|:----------------------:|

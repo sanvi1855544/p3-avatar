@@ -17,6 +17,20 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 ### [Pair 2 Journal (Ellen and Sanvi)](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing)
 
 
+
+## [Week 3]
+| Project Review | Task |
+|:-----|:----------------------:|
+| Design Manager | Bootstrap layouts, 3 frontend screens with functionality toward Project Theme | 
+| Scrum Master | README, [Tickets (Completed and Backlog)](https://github.com/sanvi1855544/p3-avatar/projects/1), [Wiki](https://github.com/sanvi1855544/p3-avatar/wiki), [expected backlog when returning from Winter Break](https://github.com/sanvi1855544/p3-avatar/projects/1#column-16864588) | 
+| Technical Officer | Asynchronous access to a Database |
+| Deployment Manager | Website running from URL, process to perfrom an update |
+| Github Admin | Commits and pull requests completed by each individual |
+| TPT quiz screenshots/corrections | Ellen/Sanvi, Gennalyn/Kashish |
+| AP MCQ Test/Corrections | Ellen/Sanvi, [Gennalyn/Kashish](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing)|
+| Technical Officer/Scrum Master | 1 minute video on Asynchronous Data Access |
+
+
 ## [Week 2]
 | Project Review | Task |
 |:-----|:----------------------:|

@@ -36,10 +36,10 @@
 
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
+                    <a class="nav-link" href={{ url_for('Purpose') }}>Purpose</a>
                     <a class="nav-link" href={{ url_for('index') }}>Home</a>
                     <a class="nav-link" href={{ url_for('FindYourNation') }}>Find Your Nation!</a>
-                    <a class="nav-link" href={{ url_for('Training') }}>Training</a>
-                    <a class="nav-link" href={{ url_for('Purpose') }}>Purpose</a>
+
 
 
                 </li>
@@ -49,19 +49,40 @@
                         <link rel="stylesheet" type="text/css" href={static/SCSS.scss{>
                     {% endblock %}
 
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
 
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton2" type="button">About Us</a>
-                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
-                            <li><a class="dropdown-item" href="/Gennalyn">Gennalyn</a></li>
-                            <li><a class="dropdown-item" href="/Ellen">Ellen</a></li>
-                            <li><a class="dropdown-item" href="/Sanvi">Sanvi</a></li>
-                            <li><a class="dropdown-item" href="/Kashish">Kashish</a></li>
+
 
                         </ul>
                     </li>
+
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <div class="navbar-nav">
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton2" type="button">Training</a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+                                    <li><a class="dropdown-item" href="/Training">Start your training now!</a></li>
+                                    <li><a class="dropdown-item" href="/Dinasour">Train your agility</a></li>
+                                    <li><a class="dropdown-item" href="/Hangman">Increase your knowledge.</a></li>
+
+
+                                </ul>
+                            </li>
+
+
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton2" type="button">About Us</a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+                                <li><a class="dropdown-item" href="/Gennalyn">Gennalyn</a></li>
+                                <li><a class="dropdown-item" href="/Ellen">Ellen</a></li>
+                                <li><a class="dropdown-item" href="/Sanvi">Sanvi</a></li>
+                                <li><a class="dropdown-item" href="/Kashish">Kashish</a></li>
+
+                            </ul>
+                        </li>
         </nav> 
         <div class="container-fluid content">
             {% block content %}{% endblock %}

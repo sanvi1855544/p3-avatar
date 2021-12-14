@@ -36,6 +36,14 @@ def Training():
 def Purpose():
     return render_template("Purpose.html")
 
+@app.route("/Dinasour/")
+def Dinasour():
+    return render_template("Dinasour.html")
+
+@app.route("/Hangman/")
+def Hangman():
+    return render_template("Hangman.html")
+
 
 
 if __name__ == "__main__":

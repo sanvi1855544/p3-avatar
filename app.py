@@ -44,6 +44,22 @@ def Dinasour():
 def Hangman():
     return render_template("Hangman.html")
 
+@app.route("/water/")
+def water():
+    return render_template("water.html")
+
+@app.route("/earth/")
+def earth():
+    return render_template("earth.html")
+
+@app.route("/fire/")
+def fire():
+    return render_template("fire.html")
+
+@app.route("/air/")
+def air():
+    return render_template("air.html")
+
 
 
 if __name__ == "__main__":

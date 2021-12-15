@@ -1,6 +1,9 @@
 from flask import Flask, render_template
+from crud.app_crud import app_crud
 
-app = Flask(__name__)
+from __init__ import app
+
+app.register_blueprint(app_crud)
 
 @app.route("/")
 def index():

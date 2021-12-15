@@ -8,18 +8,26 @@
 
 {% block content %}
 
+    <style>
+        .forecast {
+            font-family: 'Roboto Mono', 'Consolas', 'Menlo', monospace;
+            font-size: 20px;
+        }
+    </style>
+
     <h1>
         <blockquote><blockquote>
             <body>
 
-
-            <h1>Kashish Chopra</h1>
+            <h1 style="background-color:#778da9;text-align:center">Kashish </h1><br>
+            <center>
             <p>Hi! I'm a senior, class of 2022 at Del Norte High School! </p>
 
 
 
             <br><a class="button" href="https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing">Pair Share Journal</a></br>
             <br><a class="button" href="https://github.com/sanvi1855544/p3-avatar/commits?author=kashishchopraa">My Commits</a></br>
+                <br><a class="button" href="https://docs.google.com/document/d/1lUqeRgP5vvp7QLuatTVv3ZAEiODlQDbyJHboeLtl2iQ/edit?usp=sharing">Create Task Plan</a></br>
 
             <img id="myImage" onclick="changeImage()" src="/static/images/kashish.jpeg"" width="200" height="500">
 
@@ -34,8 +42,32 @@
                     }
                 }
             </script>
-            <blockquote>
+            <body>
+
+            <h2>Number Game!</h2>
+
+            <p>Enter a number and click OK:</p>
+
+            <input id="id1" type="number" min="100" max="300" required>
+            <button onclick="myFunction()">OK</button>
+
+            <p>If the number is less than 100 or greater than 300, an error message will be displayed.</p>
+
+            <p id="demo"></p>
+
+            <script>
+                function myFunction() {
+                    const inpObj = document.getElementById("id1");
+                    if (!inpObj.checkValidity()) {
+                        document.getElementById("demo").innerHTML = inpObj.validationMessage;
+                    } else {
+                        document.getElementById("demo").innerHTML = "Input OK";
+                    }
+                }
+            </script>
+
             </body>
+            </script>
     </h1>
 
 {% endblock %}

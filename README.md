@@ -28,7 +28,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | Github Admin | Commits and pull requests completed by each individual ([Ellen](https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen), [Sanvi](https://github.com/sanvi1855544/p3-avatar/commits?author=sanvi1855544), [Kashish](https://github.com/sanvi1855544/p3-avatar/commits?author=kashishchopraa), [Gennalyn](https://github.com/sanvi1855544/p3-avatar/commits?author=Gennalynb123)) |
 | AP MCQ Test/Corrections | [Ellen/Sanvi](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing), [Gennalyn/Kashish](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing)|
 | Technical Officer/Scrum Master | [1 minute video on PBL highlights, plan after break, and asynchronous data access](https://www.loom.com/share/9c17256e5d8c4fb391af572cfc06559e) |
-
+| PBL Progress | [home page](https://github.com/sanvi1855544/p3-avatar/issues/10), [interactive quiz](https://github.com/sanvi1855544/p3-avatar/issues/13), set up |
 
 ## [Week 2]
 | Project Review | Task |

@@ -18,7 +18,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 
 
 
-## [Week 3]
+## [Week 3] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/24))
 | Project Review | Task |
 |:-----|:----------------------:|
 | Design Manager | [Bootstrap layouts, 3 frontend screens with functionality toward Project Theme](https://github.com/sanvi1855544/p3-avatar/issues/25) | 
@@ -30,7 +30,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | Technical Officer/Scrum Master | [1 minute video on PBL highlights, plan after break, and asynchronous data access](https://www.loom.com/share/9c17256e5d8c4fb391af572cfc06559e) |
 | PBL Progress | [home page](https://github.com/sanvi1855544/p3-avatar/issues/10), [interactive quiz](https://github.com/sanvi1855544/p3-avatar/issues/13), set up |
 
-## [Week 2]
+## [Week 2] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/16))
 | Project Review | Task |
 |:-----|:----------------------:|
 | Ellen Xu About Page | [About Page](https://github.com/sanvi1855544/p3-avatar/issues/2) | 
@@ -41,7 +41,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | TPT quiz screenshots/corrections | [Gennalyn/Kashish](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing), [Ellen/Sanvi](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing)|
 | Create Task Plan | [Sanvi](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit#bookmark=id.56rkhuyb3tx8), [Kashish](https://docs.google.com/document/d/1lUqeRgP5vvp7QLuatTVv3ZAEiODlQDbyJHboeLtl2iQ/edit?usp=sharing), [Ellen](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit#bookmark=id.56rkhuyb3tx8), [Gennalyn](https://docs.google.com/document/d/13ZNmSCC5W7jhd1W1TpFOIpgeJjYzPF5GXYxsItYlnfc/edit?usp=sharing)|
 
-## [Week 1]
+## [Week 1] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/14))
 | Project Review | Links/Requirements |
 |:-----|:----------------------:|
 | Design| [Wiki theme](https://github.com/sanvi1855544/p3-avatar/wiki/Wiki-Theme), [brain write](https://github.com/sanvi1855544/p3-avatar/wiki/Brainwrites-for-website), [Wire Frame](https://github.com/sanvi1855544/p3-avatar/issues/5) | 

@@ -1,5 +1,5 @@
 from __init__ import app
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 from crud.app_crud import app_crud
 
 app.register_blueprint(app_crud)
@@ -62,7 +62,19 @@ def fire():
 def air():
     return render_template("air.html")
 
+@app.route('/search')
+def search():
 
+    query = request.args.get('search')
+    # req_search = query.filter_by(req_no=query)
+
+    page = query+'.html'
+    from pathlib import Path
+    my_file = Path("templates/"+page)
+    if my_file.exists():
+        return render_template(page)
+    else:
+        return render_template('search.html', req_search=query)
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=8080)

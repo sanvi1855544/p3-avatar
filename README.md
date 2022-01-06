@@ -5,13 +5,6 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 
 
 ## Contributors
-| Name | GitHub ID and Profile | Commits |
-|-----|----------------------|-------|
-| Ellen Xu (Technical Officer)| [@xu-ellen](https://github.com/xu-ellen) | [Commits](https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen)|
-| Sanvi Pal (GitHub Admin)| [@sanvi1855544](https://github.com/sanvi1855544)| [Commits](https://github.com/sanvi1855544/p3-avatar/commits?author=sanvi1855544)|
-| Kashish Chopra (Project Manager) | [@kashishchopraa](https://github.com/kashishchopraa) |[Commits](https://github.com/sanvi1855544/p3-avatar/commits?author=kashishchopraa)|
-| Gennalyn Bongolan (Scrum Master)| [@Gennalynb123](https://github.com/Gennalynb123) |[Commits](https://github.com/sanvi1855544/p3-avatar/commits?author=Gennalynb123)|
-
 <table>
    <tr>
     <th>Name</th>
@@ -54,6 +47,35 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | Ellen | | |
 | Kashish |  |
 | Gennalyn | | |
+
+<table>
+   <tr>
+    <th>Team Member</th>
+    <th>PBL Tasks</th>
+    <th>TPT work</th>
+   </tr>
+   <tr>
+    <td>Ellen </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Sanvi</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Kashish</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Gennalyn </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  
+</table>
 
 ## [Week 3] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/24))
 | Project Review | Task |

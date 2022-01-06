@@ -113,12 +113,12 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
     <td><a href="https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing">Ellen/Sanvi</a>, <a href="https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing">Gennalyn/Kashish</a></td>
   </tr>
   <tr>
-    <td>Deployment Manager</td>
-    <td>Website running from URL, process to perfrom an update</td>
+    <td>Technical Officer/Scrum Master</td>
+    <td><a href="https://www.loom.com/share/9c17256e5d8c4fb391af572cfc06559e">1 minute video on PBL highlights, plan after break, and asynchronous data access</a></td>
   </tr>
   <tr>
-    <td>Deployment Manager</td>
-    <td>Website running from URL, process to perfrom an update</td>
+    <td>PBL Progress</td>
+    <td><a href="https://github.com/sanvi1855544/p3-avatar/issues/10">home page</a>, <a href="https://github.com/sanvi1855544/p3-avatar/issues/13">interactive quiz</a>, set up</td>
   </tr>
   
 </table>

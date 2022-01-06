@@ -29,14 +29,14 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
     <td><a href="https://github.com/sanvi1855544/p3-avatar/commits?author=sanvi1855544">Commits</a></td>
   </tr>
   <tr>
-    <td>Ellen Xu (Technical Officer)</td>
-    <td> <a href="https://github.com/xu-ellen">@xu-ellen</a></td>
-    <td><a href="https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen">Commits</a></td>
+    <td>Kashish Chopra (Project Manager)</td>
+    <td> <a href="https://github.com/kashishchopraa">@kashishchopraa</a></td>
+    <td><a href="https://github.com/sanvi1855544/p3-avatar/commits?author=kashishchopraa">Commits</a></td>
   </tr>
   <tr>
-    <td>Ellen Xu (Technical Officer)</td>
-    <td> <a href="https://github.com/xu-ellen">@xu-ellen</a></td>
-    <td><a href="https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen">Commits</a></td>
+    <td>Gennalyn Bongolan (Scrum Master)</td>
+    <td> <a href="https://github.com/Gennalynb123">@Gennalynb123</a></td>
+    <td><a href="https://github.com/sanvi1855544/p3-avatar/commits?author=Gennalynb123">Commits</a></td>
   </tr>
   
 </table>

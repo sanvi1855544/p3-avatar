@@ -41,12 +41,6 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 
 
 ## [Week 4] (Review Ticket)
-| Team Member | PBL Tasks | TPT work |
-|:-----|:----------------------:|:----------------------:|
-| Sanvi | | |
-| Ellen | | |
-| Kashish |  |
-| Gennalyn | | |
 
 <table>
    <tr>

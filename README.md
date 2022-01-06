@@ -98,11 +98,11 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
   </tr>
   <tr>
     <td>Technical Officer</td>
-    <td> <a href="https://github.com/kashishchopraa">@kashishchopraa</a></td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/26">Asynchronous access to a Databasea</a></td>
   </tr>
   <tr>
     <td>Deployment Manager</td>
-    <td> <a href="https://github.com/Gennalynb123">@Gennalynb123</a></td>
+    <td>Website running from URL, process to perfrom an update</td>
   </tr>
   
 </table>

@@ -49,12 +49,12 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
     <th>TPT work</th>
    </tr>
    <tr>
-    <td>Ellen </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/29">Ellen</a> </td>
     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/11">Purpose Page</a> </td>
     <td> </td>
   </tr>
   <tr>
-    <td>Sanvi</td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/30">Sanvi</a> </td>
     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/7">Dino mini game</a> </td>
     <td> </td>
   </tr>
@@ -64,7 +64,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
     <td> </td>
   </tr>
   <tr>
-    <td>Gennalyn </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/28">Gennalyn</a> </td>
     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/13">Interactive quiz</a> </td>
     <td> <a href="https://docs.google.com/document/d/1s6uUgKyedjpPG2DwHhsHjr2WEZRqRd9O6cMToFS9grg/edit?usp=sharing">3.11-3.13</a> </td>
   </tr>

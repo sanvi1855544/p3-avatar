@@ -50,12 +50,12 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
    </tr>
    <tr>
     <td>Ellen </td>
-    <td> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/11">Purpose Page</a> </td>
     <td> </td>
   </tr>
   <tr>
     <td>Sanvi</td>
-    <td> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/7">Dino mini game</a> </td>
     <td> </td>
   </tr>
   <tr>
@@ -65,8 +65,8 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
   </tr>
   <tr>
     <td>Gennalyn </td>
-    <td> </td>
-    <td> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/13">Interactive quiz</a> </td>
+    <td> <a href="https://docs.google.com/document/d/1s6uUgKyedjpPG2DwHhsHjr2WEZRqRd9O6cMToFS9grg/edit?usp=sharing">3.11-3.13</a> </td>
   </tr>
   
 </table>

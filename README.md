@@ -72,16 +72,6 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 </table>
 
 ## [Week 3] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/24))
-| Project Review | Task |
-|:-----|:----------------------:|
-| Design Manager | [Bootstrap layouts, 3 frontend screens with functionality toward Project Theme](https://github.com/sanvi1855544/p3-avatar/issues/25) | 
-| Scrum Master | README, [Tickets (Completed and Backlog)](https://github.com/sanvi1855544/p3-avatar/projects/1), [Wiki](https://github.com/sanvi1855544/p3-avatar/wiki), [expected backlog when returning from Winter Break](https://github.com/sanvi1855544/p3-avatar/projects/1#column-16864588) | 
-| Technical Officer | [Asynchronous access to a Database](https://github.com/sanvi1855544/p3-avatar/issues/26) |
-| Deployment Manager | Website running from URL, process to perfrom an update |
-| Github Admin | Commits and pull requests completed by each individual ([Ellen](https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen), [Sanvi](https://github.com/sanvi1855544/p3-avatar/commits?author=sanvi1855544), [Kashish](https://github.com/sanvi1855544/p3-avatar/commits?author=kashishchopraa), [Gennalyn](https://github.com/sanvi1855544/p3-avatar/commits?author=Gennalynb123)), [Github Policy](https://github.com/sanvi1855544/p3-avatar/wiki/Github-Policy)
-| AP MCQ Test/Corrections | [Ellen/Sanvi](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing), [Gennalyn/Kashish](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing)|
-| Technical Officer/Scrum Master | [1 minute video on PBL highlights, plan after break, and asynchronous data access](https://www.loom.com/share/9c17256e5d8c4fb391af572cfc06559e) |
-| PBL Progress | [home page](https://github.com/sanvi1855544/p3-avatar/issues/10), [interactive quiz](https://github.com/sanvi1855544/p3-avatar/issues/13), set up |
 
 <table>
    <tr>
@@ -133,6 +123,34 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | Deployment Link | [Avatar]|
 | TPT quiz screenshots/corrections | [Gennalyn/Kashish](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing), [Ellen/Sanvi](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing)|
 | Create Task Plan | [Sanvi](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit#bookmark=id.56rkhuyb3tx8), [Kashish](https://docs.google.com/document/d/1lUqeRgP5vvp7QLuatTVv3ZAEiODlQDbyJHboeLtl2iQ/edit?usp=sharing), [Ellen](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit#bookmark=id.56rkhuyb3tx8), [Gennalyn](https://docs.google.com/document/d/13ZNmSCC5W7jhd1W1TpFOIpgeJjYzPF5GXYxsItYlnfc/edit?usp=sharing)|
+
+<table>
+   <tr>
+    <th>Project Review</th>
+    <th>Task</th>
+   </tr>
+   <tr>
+    <td>Ellen Xu About Page</td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/2">About Page</a></td>
+  </tr>
+   <tr>
+    <td>Sanvi Pal About Page</td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/3">About Page</a></td>
+  </tr>
+   <tr>
+    <td>Kashish Chopra About Page</td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/4">About Page</a></td>
+  </tr>
+   <tr>
+    <td>Gennalyn Bongolan About Page</td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/1">About Page</a></td>
+  </tr>
+   <tr>
+    <td>Deployment Link</td>
+    <td> Avatar </td>
+  </tr>
+  
+</table>
 
 ## [Week 1] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/14))
 | Project Review | Links/Requirements |

@@ -12,6 +12,36 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | Kashish Chopra (Project Manager) | [@kashishchopraa](https://github.com/kashishchopraa) |[Commits](https://github.com/sanvi1855544/p3-avatar/commits?author=kashishchopraa)|
 | Gennalyn Bongolan (Scrum Master)| [@Gennalynb123](https://github.com/Gennalynb123) |[Commits](https://github.com/sanvi1855544/p3-avatar/commits?author=Gennalynb123)|
 
+<table>
+   <tr>
+    <th>Name</th>
+    <th>GitHub ID and Profile</th>
+    <th>Commits</th>
+   </tr>
+   <tr>
+    <td>Ellen Xu (Technical Officer)</td>
+    <td> <a href="https://github.com/xu-ellen">@xu-ellen</a></td>
+    <td><a href="https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen">Commits</a></td>
+  </tr>
+  <tr>
+    <td>Sanvi Pal (GitHub Admin)</td>
+    <td> <a href="https://github.com/sanvi1855544">@sanvi1855544</a></td>
+    <td><a href="https://github.com/sanvi1855544/p3-avatar/commits?author=sanvi1855544">Commits</a></td>
+  </tr>
+  <tr>
+    <td>Ellen Xu (Technical Officer)</td>
+    <td> <a href="https://github.com/xu-ellen">@xu-ellen</a></td>
+    <td><a href="https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen">Commits</a></td>
+  </tr>
+  <tr>
+    <td>Ellen Xu (Technical Officer)</td>
+    <td> <a href="https://github.com/xu-ellen">@xu-ellen</a></td>
+    <td><a href="https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen">Commits</a></td>
+  </tr>
+  
+</table>
+
+
 ## Pair Share Journals
 ### [Pair 1 Journal (Gennalyn and Kashish)](https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing)
 ### [Pair 2 Journal (Ellen and Sanvi)](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing)

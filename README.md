@@ -109,8 +109,8 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
     <td>Commits and pull requests completed by each individual (<a href="https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen">Ellen</a>, <a href="https://github.com/sanvi1855544/p3-avatar/commits?author=sanvi1855544">Sanvi</a>, <a href="https://github.com/sanvi1855544/p3-avatar/commits?author=kashishchopraa">Kashish</a>,  <a href="https://github.com/sanvi1855544/p3-avatar/commits?author=Gennalynb123">Gennalyn</a>), <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Github-Policy">GitHub Policy</a></td>
   </tr>
   <tr>
-    <td>Deployment Manager</td>
-    <td>Website running from URL, process to perfrom an update</td>
+    <td>AP MCQ Test/Corrections</td>
+    <td><a href="https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing">Ellen/Sanvi</a>, <a href="https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing">Gennalyn/Kashish</a></td>
   </tr>
   <tr>
     <td>Deployment Manager</td>

@@ -98,7 +98,23 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
   </tr>
   <tr>
     <td>Technical Officer</td>
-    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/26">Asynchronous access to a Databasea</a></td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/26">Asynchronous access to a Database</a></td>
+  </tr>
+  <tr>
+    <td>Deployment Manager</td>
+    <td>Website running from URL, process to perfrom an update</td>
+  </tr>
+  <tr>
+    <td>Github Admin</td>
+    <td>Commits and pull requests completed by each individual (<a href="https://github.com/sanvi1855544/p3-avatar/commits/main?author=xu-ellen">Ellen</a>, <a href="https://github.com/sanvi1855544/p3-avatar/commits?author=sanvi1855544">Sanvi</a>, <a href="https://github.com/sanvi1855544/p3-avatar/commits?author=kashishchopraa">Kashish</a>,  <a href="https://github.com/sanvi1855544/p3-avatar/commits?author=Gennalynb123">Gennalyn</a>), <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Github-Policy">GitHub Policy</a></td>
+  </tr>
+  <tr>
+    <td>Deployment Manager</td>
+    <td>Website running from URL, process to perfrom an update</td>
+  </tr>
+  <tr>
+    <td>Deployment Manager</td>
+    <td>Website running from URL, process to perfrom an update</td>
   </tr>
   <tr>
     <td>Deployment Manager</td>

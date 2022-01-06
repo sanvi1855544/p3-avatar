@@ -83,6 +83,30 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 | Technical Officer/Scrum Master | [1 minute video on PBL highlights, plan after break, and asynchronous data access](https://www.loom.com/share/9c17256e5d8c4fb391af572cfc06559e) |
 | PBL Progress | [home page](https://github.com/sanvi1855544/p3-avatar/issues/10), [interactive quiz](https://github.com/sanvi1855544/p3-avatar/issues/13), set up |
 
+<table>
+   <tr>
+    <th>Project Review</th>
+    <th>Task</th>
+   </tr>
+   <tr>
+    <td>Design Manager</td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/25">Bootstrap layouts, 3 frontend screens with functionality toward Project Theme</a></td>
+  </tr>
+  <tr>
+    <td>Scrum Master</td>
+    <td> README, <a href="https://github.com/sanvi1855544/p3-avatar/projects/1">Tickets (Completed and Backlog)</a>, <a href="https://github.com/sanvi1855544/p3-avatar/wiki">Wiki</a>, <a href="https://github.com/sanvi1855544/p3-avatar/projects/1#column-16864588">expected backlog when returning from Winter Break</a></td>
+  </tr>
+  <tr>
+    <td>Technical Officer</td>
+    <td> <a href="https://github.com/kashishchopraa">@kashishchopraa</a></td>
+  </tr>
+  <tr>
+    <td>Deployment Manager</td>
+    <td> <a href="https://github.com/Gennalynb123">@Gennalynb123</a></td>
+  </tr>
+  
+</table>
+
 ## [Week 2] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/16))
 | Project Review | Task |
 |:-----|:----------------------:|:----------------------:|

@@ -152,13 +152,6 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 </table>
 
 ## [Week 1] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/14))
-| Project Review | Links/Requirements |
-|:-----|:----------------------:|
-| Design| [Wiki theme](https://github.com/sanvi1855544/p3-avatar/wiki/Wiki-Theme), [brain write](https://github.com/sanvi1855544/p3-avatar/wiki/Brainwrites-for-website), [Wire Frame](https://github.com/sanvi1855544/p3-avatar/issues/5) | 
-| Technials| [10-12 Key Ideas](https://github.com/sanvi1855544/p3-avatar/wiki/10-to-12-Key-Ideas)| 
-| Github | [Management Policies](https://github.com/sanvi1855544/p3-avatar/wiki/Management-Plan), [Github Policies](https://github.com/sanvi1855544/p3-avatar/wiki/Github-Policy) |
-| Deployment| [Wiki Plan/Hardware and Frequency](https://github.com/sanvi1855544/p3-avatar/wiki/Deployment-Plan) |
-| Scrum Board| [assignments/backlog](https://github.com/sanvi1855544/p3-avatar/projects/1) |
 
 <table>
    <tr>
@@ -198,5 +191,4 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 
 
 
-\
 

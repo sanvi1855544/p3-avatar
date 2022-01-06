@@ -149,6 +149,14 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
     <td>Deployment Link</td>
     <td> Avatar </td>
   </tr>
+   <tr>
+    <td>TPT quiz screenshots/corrections</td>
+    <td> <a href="https://docs.google.com/document/d/1Vq5dNQy-iN9p6DGT1PZSG1VUp3FRJ_72Pq5ppDtPAwg/edit?usp=sharing">Gennalyn/Kashish</a>, <a href="https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing">Ellen/Sanvi</a> </td>
+  </tr>
+   <tr>
+    <td>Create Task Plan</td>
+    <td> <a href="https://docs.google.com/document/d/13ZNmSCC5W7jhd1W1TpFOIpgeJjYzPF5GXYxsItYlnfc/edit?usp=sharing">Gennalyn</a>, <a href="https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit#bookmark=id.56rkhuyb3tx8">Ellen</a>, <a href="https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit#bookmark=id.56rkhuyb3tx8">Sanvi</a>, <a href="https://docs.google.com/document/d/1lUqeRgP5vvp7QLuatTVv3ZAEiODlQDbyJHboeLtl2iQ/edit?usp=sharing">Kashish</a> </td>
+  </tr>
   
 </table>
 

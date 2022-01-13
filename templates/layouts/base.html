@@ -40,9 +40,15 @@
 <!--                    <a class="nav-link" href={{ url_for('index') }}>Home</a>-->
                     <a class="nav-link" href={{ url_for('FindYourNation') }}>Find Your Nation!</a>
 <!--                    <a class="nav-link" href={{ url_for('Training') }}>Training</a>-->
-                    <a class="nav-link" href={{ url_for('crud.crud') }}>Crud</a>
-                    <a class="nav-link" href={{ url_for('crud.search') }}>Search</a>.
 
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton2" type="button">Database</a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+                            <li><a class="dropdown-item" href={{ url_for('crud.crud') }}>Crud</a></li>
+                            <li><a class="dropdown-item" href={{ url_for('crud.search') }}>Search</a></li>
+                            <li><a class="dropdown-item" href={{ url_for('crud_api.crud_api') }}>Crud Async</a></li>
+                        </ul>
+                    </li>
                 </li>
             </ul>
                     <!-- Common style for site -->
@@ -96,8 +102,8 @@
 
                             </ul>
                         </li>
-                        <form class="form-inline" action="{{ url_for('search') }}">
-                            <input class="form-control" name="search" type="search" placeholder="Search" aria-label="Search">
+                        <form class="form-inline" action="{{ url_for('lookup') }}">
+                            <input class="form-control" name="lookup" type="lookup" placeholder="Search" aria-label="Search">
                             <button class="btn btn-outline-success" type="submit">Search</button>
                         </form>
         </nav> 

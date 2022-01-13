@@ -40,9 +40,15 @@
 <!--                    <a class="nav-link" href={{ url_for('index') }}>Home</a>-->
                     <a class="nav-link" href={{ url_for('FindYourNation') }}>Find Your Nation!</a>
 <!--                    <a class="nav-link" href={{ url_for('Training') }}>Training</a>-->
-                    <a class="nav-link" href={{ url_for('crud.crud') }}>Crud</a>
-                    <a class="nav-link" href={{ url_for('crud.search') }}>Search</a>.
 
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton2" type="button">Database</a>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+                            <li><a class="dropdown-item" href={{ url_for('crud.crud') }}>Crud</a></li>
+                            <li><a class="dropdown-item" href={{ url_for('crud.search') }}>Search</a></li>
+<!--                            <li><a class="dropdown-item" href="/Hangman">Increase your knowledge.</a></li>-->
+                        </ul>
+                    </li>
                 </li>
             </ul>
                     <!-- Common style for site -->

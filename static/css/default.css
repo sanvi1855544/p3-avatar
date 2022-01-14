@@ -71,7 +71,3 @@ ul.dropdown-menu {
     flex-flow: row wrap;
     align-items: center;
 }
-
-button {
-    display: inline-block;
-}

@@ -1,8 +1,12 @@
-from Sanvi.templates.Sanvi import sanvi_bp
 from __init__ import app
 from flask import Flask, render_template, request
 from crud.app_crud import app_crud
 from crud.app_crud_api import app_crud_api
+
+from Sanvi.templates.Sanvi import sanvi_bp
+from Ellen.templates.Ellen import ellen_bp
+from Gennalyn.templates.Gennalyn import gennalyn_bp
+from Kashish.templates.Kashish import kashish_bp
 
 app.register_blueprint(app_crud)
 app.register_blueprint(app_crud_api)

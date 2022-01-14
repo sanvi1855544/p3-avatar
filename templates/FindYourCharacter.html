@@ -1,0 +1,131 @@
+{% extends "layouts/base.html" %}
+
+{% block meta %}
+
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+
+{% endblock %}
+
+{% block content %}
+
+    <div>
+        <center>
+
+            <h1 style="color:red;">What spirit animal is meant for you?</h1>
+
+            <p class = "p2">Read and answer each question to figure out! Appa and Momo prove to be wonderful companions of Ang. Now it's time to find your spirit animal! </p>
+        </center>
+    </div>
+
+    <script>
+        function calculateResults() {
+            let q1Value = document.querySelector('input[name="q1"]:checked').value;
+            let q2Value = document.querySelector('input[name="q2"]:checked').value;
+            let q3Value = document.querySelector('input[name="q3"]:checked').value;
+            let q4Value = document.querySelector('input[name="q4"]:checked').value;
+            let q5Value = document.querySelector('input[name="q5"]:checked').value;
+            let results = +q1Value + +q2Value + +q3Value + +q4Value + +q5Value
+            //alert("Total results: " + results);
+
+            if (results >= 20) {
+                document.getElementById("resultsDiv").innerHTML = "You don't need a spirit animal. You're a lone ranger :o";
+            } else if (results < 20 && results >= 15) {
+                document.getElementById("resultsDiv").innerHTML = "Nyla";
+            } else if (results < 15 && results >= 10) {
+                document.getElementById("resultsDiv").innerHTML = "Flopsie";
+            } else if (results < 10 && results >= 5) {
+                document.getElementById("resultsDiv").innerHTML = "Appa";
+            } else if (results < 5 && results >= 0) {
+                document.getElementById("resultsDiv").innerHTML = "You are a spirit animal :o";
+
+            }
+
+
+        }
+    </script>
+
+    <form action="javascript:void(0);" onsubmit="calculateResults()">
+
+        <fieldset style="background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b3bf719-8603-4211-a054-1e161ce09a89/db0yh32-6c144b8f-b349-40c1-a38b-c37e542f6da3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiM2JmNzE5LTg2MDMtNDIxMS1hMDU0LTFlMTYxY2UwOWE4OVwvZGIweWgzMi02YzE0NGI4Zi1iMzQ5LTQwYzEtYTM4Yi1jMzdlNTQyZjZkYTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yOuMkA5ceeM1dqiStqCW1xYRplG3u954dBwzwlO0ZtE');
+                               background-position: center; background-repeat: no-repeat; background-size: cover;  background-attachment:fixed; color:white;">
+
+            <legend>Question 1</legend>
+            <h4>Would you consider yourself a dog or cat person?</h4>
+            <input type="radio" name="q1" id="q1x6" value="4"> <label for="q1x6">NONE. I strongly dislike animals.</label><br>
+            <input type="radio" name="q1" id="q1x7" value="3"> <label for="q1x7">Cats. They are independent and can take care of themselves.</label><br>
+            <input type="radio" name="q1" id="q1x8" value="2"> <label for="q1x8">Dogs. Period.</label><br>
+            <input type="radio" name="q1" id="q1x9" value="1"> <label for="q1x9">I like both. Wouldn't mind either way.</label><br>
+            <input type="radio" name="q1" id="q1x10" value="0" > <label for="q1x10">NA</label><br>
+            <br>
+        </fieldset>
+
+        <fieldset style="background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b3bf719-8603-4211-a054-1e161ce09a89/db0yh32-6c144b8f-b349-40c1-a38b-c37e542f6da3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiM2JmNzE5LTg2MDMtNDIxMS1hMDU0LTFlMTYxY2UwOWE4OVwvZGIweWgzMi02YzE0NGI4Zi1iMzQ5LTQwYzEtYTM4Yi1jMzdlNTQyZjZkYTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yOuMkA5ceeM1dqiStqCW1xYRplG3u954dBwzwlO0ZtE');
+                               background-position: center; background-repeat: no-repeat; background-size: cover;  background-attachment:fixed; color:white;">
+            <legend >Question 2</legend>
+            <h4>How are you today? Truly?</h4>
+            <input type="radio" name="q2" id="q2x6" value="4"> <label for="q2x6">I'm great. I'm feeling good, my life's on track, and I got a decent amount of sleep last night.</label><br>
+            <input type="radio" name="q2" id="q2x7" value="3"> <label for="q2x7">I'm doing ok. I got a few things in the back of my mind, but I'm good overall.</label><br>
+            <input type="radio" name="q2" id="q2x8" value="2"> <label for="q2x8">On the verge of tears.</label><br>
+            <input type="radio" name="q2" id="q2x9" value="1"> <label for="q2x9">I'm fine :)</label><br>
+            <input type="radio" name="q2" id="q2x10" value="0" > <label for="q2x10">NA</label><br>
+            <br>
+        </fieldset>
+
+        <fieldset style="background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b3bf719-8603-4211-a054-1e161ce09a89/db0yh32-6c144b8f-b349-40c1-a38b-c37e542f6da3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiM2JmNzE5LTg2MDMtNDIxMS1hMDU0LTFlMTYxY2UwOWE4OVwvZGIweWgzMi02YzE0NGI4Zi1iMzQ5LTQwYzEtYTM4Yi1jMzdlNTQyZjZkYTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yOuMkA5ceeM1dqiStqCW1xYRplG3u954dBwzwlO0ZtE');
+                               background-position: center; background-repeat: no-repeat; background-size: cover;  background-attachment:fixed; color:white;">
+            <legend>Question 3</legend>
+            <h4>Imagine you drop your ice cream cone AND it was your favorite flavor. How do you respond?</h4>
+            <input type="radio" name="q3" id="q3x3" value="4"> <label for="q3x3">Eat if off the ground.</label><br>
+            <input type="radio" name="q3" id="q3x4" value="3"> <label for="q3x4">Be dissapointed but buy a new one to make up for the absense of your daily intake of ice cream.</label><br>
+            <input type="radio" name="q3" id="q3x5" value="2"> <label for="q3x5">Cry.</label><br>
+            <input type="radio" name="q3" id="q3x6" value="1"> <label for="q3x6">Be dissapointed about it but continue on with your day.</label><br>
+            <input type="radio" name="q3" id="q3x10" value="0" > <label for="q3x10">NA</label><br>
+            <br>
+        </fieldset>
+
+        <fieldset style="background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b3bf719-8603-4211-a054-1e161ce09a89/db0yh32-6c144b8f-b349-40c1-a38b-c37e542f6da3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiM2JmNzE5LTg2MDMtNDIxMS1hMDU0LTFlMTYxY2UwOWE4OVwvZGIweWgzMi02YzE0NGI4Zi1iMzQ5LTQwYzEtYTM4Yi1jMzdlNTQyZjZkYTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yOuMkA5ceeM1dqiStqCW1xYRplG3u954dBwzwlO0ZtE');
+                               background-position: center; background-repeat: no-repeat; background-size: cover;  background-attachment:fixed; color:white;">
+            <legend>Question 4</legend>
+            <h4>Where would your ideal vacation spot take place?</h4>
+            <input type="radio" name="q4" id="q4x6" value="4"> <label for="q4x6">At home. Simply relaxing.</label><br>
+            <input type="radio" name="q4" id="q4x7" value="3"> <label for="q4x7">New York.</label><br>
+            <input type="radio" name="q4" id="q4x8" value="2"> <label for="q4x8">At Disneyland resort.</label><br>
+            <input type="radio" name="q4" id="q4x9" value="1"> <label for="q4x9">At a beach house.</label><br>
+            <input type="radio" name="q4" id="q4x10" value="0" > <label for="q4x10">NA</label><br>
+            <br>
+        </fieldset>
+
+        <fieldset style="background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b3bf719-8603-4211-a054-1e161ce09a89/db0yh32-6c144b8f-b349-40c1-a38b-c37e542f6da3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiM2JmNzE5LTg2MDMtNDIxMS1hMDU0LTFlMTYxY2UwOWE4OVwvZGIweWgzMi02YzE0NGI4Zi1iMzQ5LTQwYzEtYTM4Yi1jMzdlNTQyZjZkYTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yOuMkA5ceeM1dqiStqCW1xYRplG3u954dBwzwlO0ZtE');
+                               background-position: center; background-repeat: no-repeat; background-size: cover;  background-attachment:fixed; color:white;">
+            <legend>Question 5</legend>
+            <h4>What would you most identify yourself as?</h4>
+            <input type="radio" name="q5" id="q5x5" value="4"> <label for="q5x5">Independent. Self-sufficient.</label><br>
+            <input type="radio" name="q5" id="q5x6" value="3"> <label for="q5x6">Strong-minded. Strong-willed. Strong everything. Strong.</label><br>
+            <input type="radio" name="q5" id="q5x7" value="2"> <label for="q5x7">Fun. Outgoing. Energetic.</label><br>
+            <input type="radio" name="q5" id="q5x8" value="1"> <label for="q5x8">Open minded. Chill. Friendly.</label><br>
+            <input type="radio" name="q5" id="q5x10" value="0"> <label for="q5x10">NA</label><br>
+        </fieldset>
+
+
+        <fieldset style="background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a377660-fcbc-43cc-b03f-68ac04e61923/de54xic-fa35dfe4-d5d5-439b-8094-1900ced4472e.jpg/v1/fill/w_1280,h_2276,q_75,strp/aang_vector_wallpaper__avatar_the_last_airbender__by_rawno34_de54xic-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzhhMzc3NjYwLWZjYmMtNDNjYy1iMDNmLTY4YWMwNGU2MTkyM1wvZGU1NHhpYy1mYTM1ZGZlNC1kNWQ1LTQzOWItODA5NC0xOTAwY2VkNDQ3MmUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Y5dl-r9u2NCaJ8-9u_3TFhFe03TjrXOFFDvB2Gs1m7U');
+                               background-position: center; background-repeat: no-repeat; background-size: cover;  background-attachment:fixed;">
+            <input type="submit" value="Submit"/>
+
+            <div  id="resultsDiv"/>
+
+            <br>
+            <br>
+            <br>
+        </fieldset>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+    </form>
+
+
+{% endblock %}

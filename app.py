@@ -1,3 +1,4 @@
+from Sanvi.templates.Sanvi import sanvi_bp
 from __init__ import app
 from flask import Flask, render_template, request
 from crud.app_crud import app_crud
@@ -80,4 +81,11 @@ def lookup():
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=8080)
+
+app.register_blueprint(sanvi_bp)
+app.register_blueprint(ellen_bp)
+app.register_blueprint(gennalyn_bp)
+app.register_blueprint(kashish_bp)
+
+
 

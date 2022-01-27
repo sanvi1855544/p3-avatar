@@ -73,6 +73,12 @@ def air():
 def Life():
     return render_template("Life.html")
 
+@app.route("/FindYourCharacter/")
+def FindYourCharacter():
+    return render_template("FindYourCharacter.html")
+
+
+
 
 
 @app.route('/lookup')

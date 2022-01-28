@@ -40,6 +40,9 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 ### [Pair 2 Journal (Ellen and Sanvi)](https://docs.google.com/document/d/1pSAqPrdru8p5v9sU7csL_tyJAvifw9apmTwlzlhcn08/edit?usp=sharing)
 
 
+## [Week 5/7] ([Review Ticket](## [Week 6] ([Midterm Vocab and Competency](https://github.com/sanvi1855544/p3-avatar/wiki/Midterm-Vocab-and-Competency))
+))
+
 ## [Week 6] ([Midterm Vocab and Competency](https://github.com/sanvi1855544/p3-avatar/wiki/Midterm-Vocab-and-Competency))
 
 ## [Week 4] (Review Ticket)

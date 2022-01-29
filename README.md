@@ -42,7 +42,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 <br>
 
 
-## [Week 5/7] ([PBL Showing](https://github.com/sanvi1855544/p3-avatar/wiki/Midterm-Vocab-and-Competency))
+## [Week 5/7] ([PBL Showing](https://github.com/sanvi1855544/p3-avatar/issues/32))
 
 <br>
 

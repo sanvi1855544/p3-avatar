@@ -2,18 +2,39 @@
 
 
 {% block content %}
-
+<script>
+    function refreshPage(){
+        window.location.reload();
+    }
+</script>
     <h1>Avatar</h1>
     <p><a class="button" href="{{ url_for('FindYourNation') }}">Find Your Nation Today!</a></p>
     <marquee behavior="scroll" direction="left"><img src="static/images/aang-avatar.gif" width="94" height="88" alt="giffin" /></marquee>
-
-    <div align="center">
-        <p id="api">Random Avatar Character: {{data[0].name}}</p><br>
+<div id="apicontainer" align="center">
+    <div id="divapi" align="center">
+        <p id="apititle"> &#x2193; [API] Random Avatar Character! &#x2193;</p>
+        <p id="api">Name: {{ data[0].name }}</p>
+        <button onclick="refreshPage()">Generate New Character!</button>
+        <br>
         <img src="{{ data[0].photoUrl }}" height="100">
         <br>
-        <p> Enemies: {{data[0].enemies }}</p><br><p> Allies: {{ data[0].allies }} </p>
+        <p id="api">
+            Enemies:
+            {{data[0].enemies[0] }}
+            {{data[0].enemies[1] }}
+            {{data[0].enemies[2] }}
+            {{data[0].enemies[3] }}
+            {{data[0].enemies[4] }}
+            {{data[0].enemies[5] }} <br>
+            Allies:
+            {{ data[0].allies[0] }}
+            {{ data[0].allies[1] }}
+            {{ data[0].allies[2] }}
+            {{ data[0].allies[3] }}
+            {{ data[0].allies[4] }}
+            {{ data[0].allies[5] }} </p>
     </div>
-
+</div>
 
 {% endblock %}
 
@@ -38,6 +59,31 @@
             text-align: center;
 
         }
+
+        #apicontainer{
+            margin-top: 5px;
+            margin-bottom: 20px;
+        }
+
+        #divapi{
+            background-color: rgba(203, 203, 203, 0.32);
+            width: 50%;
+        }
+
+        #api{
+            font-size: 25px;
+        }
+
+        #apititle{
+            text-decoration: underline;
+            text-decoration-color: red;
+            font-size: 30px;
+        }
+
+        button{
+            margin-bottom: 5px;
+        }
+
     </style>
 
 {% endblock %}

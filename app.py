@@ -69,10 +69,6 @@ def fire():
 def air():
     return render_template("air.html")
 
-@app.route("/Life/")
-def Life():
-    return render_template("Life.html")
-
 @app.route("/FindYourCharacter/")
 def FindYourCharacter():
     return render_template("FindYourCharacter.html")

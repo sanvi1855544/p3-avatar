@@ -13,7 +13,11 @@ app.register_blueprint(app_crud_api)
 
 @app.route("/")
 def index():
-    return render_template("index.html") #"Avatar Website"
+    import requests
+    URL = "https://last-airbender-api.herokuapp.com/api/v1/characters/random"
+    r = requests.get(url=URL)
+    data = r.json()
+    return render_template("index.html", data=data) #"Avatar Website"
 
 #about pages
 @app.route("/Gennalyn/")

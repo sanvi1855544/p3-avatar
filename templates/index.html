@@ -2,39 +2,10 @@
 
 
 {% block content %}
-<script>
-    function refreshPage(){
-        window.location.reload();
-    }
-</script>
+
     <h1>Avatar</h1>
     <p><a class="button" href="{{ url_for('FindYourNation') }}">Find Your Nation Today!</a></p>
     <marquee behavior="scroll" direction="left"><img src="static/images/aang-avatar.gif" width="94" height="88" alt="giffin" /></marquee>
-<div id="apicontainer" align="center">
-    <div id="divapi" align="center">
-        <p id="apititle"> &#x2193; [API] Random Avatar Character! &#x2193;</p>
-        <p id="api">Name: {{ data[0].name }}</p>
-        <button onclick="refreshPage()">Generate New Character!</button>
-        <br>
-        <img src="{{ data[0].photoUrl }}" height="100">
-        <br>
-        <p id="api">
-            Enemies:
-            {{data[0].enemies[0] }}
-            {{data[0].enemies[1] }}
-            {{data[0].enemies[2] }}
-            {{data[0].enemies[3] }}
-            {{data[0].enemies[4] }}
-            {{data[0].enemies[5] }} <br>
-            Allies:
-            {{ data[0].allies[0] }}
-            {{ data[0].allies[1] }}
-            {{ data[0].allies[2] }}
-            {{ data[0].allies[3] }}
-            {{ data[0].allies[4] }}
-            {{ data[0].allies[5] }} </p>
-    </div>
-</div>
 
 {% endblock %}
 

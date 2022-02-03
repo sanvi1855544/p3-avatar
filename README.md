@@ -55,7 +55,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
   </tr>
   <tr>
     <td> Akhil </td>
-    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/35">Life game/simulation</a> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/35">Life game/simulation</a>, <a href="https://github.com/sanvi1855544/p3-avatar/issues/39">Random Character Generator API</a>  </td>
   </tr>
   <tr>
     <td> Valen </td>

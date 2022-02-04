@@ -1,0 +1,85 @@
+{% extends "layouts/base.html" %}
+
+{% block content %}
+    <script>
+        function refreshPage(){
+            window.location.reload();
+        }
+    </script>
+    <h1>Explore Characters</h1>
+    <div id="apicontainer" align="center">
+        <div id="divapi" align="center">
+            <p id="apititle"> &#x2193; Random Avatar Character! &#x2193;</p>
+            <p id="api">Name: {{ data[0].name }}</p>
+            <button onclick="refreshPage()">Generate New Character!</button>
+            <br>
+            <img src="{{ data[0].photoUrl }}" height="100">
+            <br>
+            <p id="api">
+                Enemies:
+                {{data[0].enemies[0] }}
+                {{data[0].enemies[1] }}
+                {{data[0].enemies[2] }}
+                {{data[0].enemies[3] }}
+                {{data[0].enemies[4] }}
+                {{data[0].enemies[5] }} <br>
+                Allies:
+                {{ data[0].allies[0] }}
+                {{ data[0].allies[1] }}
+                {{ data[0].allies[2] }}
+                {{ data[0].allies[3] }}
+                {{ data[0].allies[4] }}
+                {{ data[0].allies[5] }} </p>
+        </div>
+    </div>
+
+{% endblock %}
+{% block meta %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <body style="background-image:url('https://wallpaperaccess.com/full/2890344.png');
+                               background-position: center; background-repeat: no-repeat; background-size: cover;  background-attachment:fixed;">
+
+    <style>
+
+        h1 {
+            color: black;
+            text-align: center;
+        }
+
+        p {
+            color: black;
+            font-family: "Arial Rounded MT Bold";
+            font-size: 35px;
+            text-align: center;
+
+        }
+
+        #apicontainer{
+            margin-top: 50px;
+            margin-bottom: 20px;
+        }
+
+        #divapi{
+            background-color: rgba(203, 203, 203, 0.32);
+            width: 40%;
+        }
+
+        #api{
+            font-size: 25px;
+        }
+
+        #apititle{
+            text-decoration: underline;
+            text-decoration-color: #8c4a4a;
+            font-size: 30px;
+        }
+
+        button{
+            margin-bottom: 5px;
+        }
+
+    </style>
+
+{% endblock %}

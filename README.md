@@ -42,6 +42,34 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 <br>
 
 
+## [Week 8 - Crossover Coding] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/37))
+
+<table>
+   <tr>
+    <th>Team Member</th>
+    <th>PBL Tasks</th>
+   </tr>
+   <tr>
+    <td> Yash</a> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/34">TicTacToe Minigame</a> </td>
+  </tr>
+  <tr>
+    <td> Akhil </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/35">Life game/simulation</a>, <a href="https://github.com/sanvi1855544/p3-avatar/issues/39">Random Character Generator API</a>, <a href="https://github.com/sanvi1855544/p3-avatar/issues/40">Customize Purpose Page</a>  </td>
+  </tr>
+  <tr>
+    <td> Valen </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/38">Survey/Quiz</a> </td>
+  </tr>
+  <tr>
+    <td> Jay </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/33">Modified Snake Game</a> </td>
+  </tr>
+  
+</table>
+
+<br>
+
 ## [Week 5/7] ([PBL Showing](https://github.com/sanvi1855544/p3-avatar/issues/32))
 
 <br>

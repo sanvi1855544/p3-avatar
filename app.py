@@ -108,6 +108,3 @@ app.register_blueprint(sanvi_bp)
 app.register_blueprint(ellen_bp)
 app.register_blueprint(gennalyn_bp)
 app.register_blueprint(kashish_bp)
-
-
-

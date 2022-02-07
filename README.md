@@ -47,24 +47,36 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 <table>
    <tr>
     <th>Team Member</th>
+    <th>Score</th>
     <th>PBL Tasks</th>
    </tr>
    <tr>
     <td> Yash</a> </td>
+     <td> 5.8 </td>
     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/34">TicTacToe Minigame</a> </td>
   </tr>
   <tr>
     <td> Akhil </td>
+    <td> 5.9 </td>
     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/35">Life game/simulation</a>, <a href="https://github.com/sanvi1855544/p3-avatar/issues/39">Random Character Generator API</a>, <a href="https://github.com/sanvi1855544/p3-avatar/issues/40">Customize Purpose Page</a>  </td>
   </tr>
   <tr>
     <td> Valen </td>
+    <td> 5.6 </td>
     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/38">Survey/Quiz</a> </td>
   </tr>
   <tr>
     <td> Jay </td>
-    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/33">Modified Snake Game</a> </td>
+    <td> 5.6 </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/33">Modified Snake Game</a>, <a href="https://github.com/sanvi1855544/p3-avatar/issues/41">Avatar character list</a>, attempted <a href="https://github.com/sanvi1855544/p3-avatar/commit/7c61215ac4ec3aae622578f34157777af0fd4398">Timer</a>  </td>
   </tr>
+  <tr>
+    <td> Gennalyn </td>
+    <td> 5.7 </td>
+    <td> Scrum Master --> monitor team; update scrum board and ReadMe</a> </td>
+  </tr>
+ 
+   
   
 </table>
 

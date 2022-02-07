@@ -57,6 +57,10 @@ def Dinasour():
 def Hangman():
     return render_template("Hangman.html")
 
+@app.route("/Snake/")
+def Snake():
+    return render_template("Snake.html")
+
 @app.route("/water/")
 def water():
     return render_template("water.html")

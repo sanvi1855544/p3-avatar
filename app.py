@@ -81,6 +81,10 @@ def air():
 def FindYourCharacter():
     return render_template("FindYourCharacter.html")
 
+@app.route("/avatartime/")
+def avatartime():
+    return render_template("avatartime.html")
+
 @app.route("/ExploreCharacters/")
 def ExploreCharacters():
     import requests
@@ -88,6 +92,8 @@ def ExploreCharacters():
     r = requests.get(url=URL)
     data = r.json()
     return render_template("ExploreCharacters.html", data=data)
+
+
 
 
 

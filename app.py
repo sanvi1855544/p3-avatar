@@ -81,6 +81,10 @@ def air():
 def FindYourCharacter():
     return render_template("FindYourCharacter.html")
 
+@app.route("/favorite/")
+def FavoriteCharacter():
+    return render_template("favorite.html")
+
 @app.route("/avatartime/")
 def avatartime():
     return render_template("avatartime.html")

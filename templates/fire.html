@@ -48,32 +48,8 @@
     <title>To Do List</title>
 </head>
 <body>
-<h1>Favorite Avatar Characters</h1>
-<div class="container">
-    <input id="inputField" type="text"><button id="addToDo">+</button>
-    <div class="to-dos" id="toDoContainer">
-    </div>
-</div>
-<script src="main.js"></script>
-<script>
-    let addToDoButton = document.getElementById('addToDo');
-    let toDoContainer = document.getElementById('toDoContainer');
-    let inputField = document.getElementById('inputField');
+<h1>Fire Nation Game</h1>
 
-    addToDoButton.addEventListener('click', function(){
-        var paragraph = document.createElement('p');
-        paragraph.classList.add('paragraph-styling');
-        paragraph.innerText = inputField.value;
-        toDoContainer.appendChild(paragraph);
-        inputField.value = "";
-        paragraph.addEventListener('click', function(){
-            paragraph.style.textDecoration = "line-through";
-        })
-        paragraph.addEventListener('dblclick', function(){
-            toDoContainer.removeChild(paragraph);
-        })
-    })
-</script>
 </body>
 </html>
 {% endblock %}

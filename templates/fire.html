@@ -9,7 +9,7 @@
     }
 
     .board {
-        height: 75vh;
+        height: 80vh;
         width: 90vw;
         background-image: linear-gradient(
                 to right, red, orange);
@@ -33,12 +33,12 @@
         border-radius: 100px;
         animation: spinBall 0.1s linear infinite;
         box-shadow: inset 0 0 18px #fff,
-        inset 6px 0 18px violet,
-        inset -6px 0 18px #0ff,
-        inset 6px 0 30px violet,
-        inset -6px 0 30px #0ff,
+        inset 6px 0 18px yellow,
+        inset -6px 0 18px red,
+        inset 6px 0 30px yellow,
+        inset -6px 0 30px red,
         0 0 18px #fff, -4px 0 18px
-        violet, 4px 0 18px #0ff;
+        yellow, 4px 0 18px red;
     }
 
     @keyframes spinBall {
@@ -59,24 +59,24 @@
         top: calc(7.5vh + 55px);
         left: calc(10vw + 30px);
         box-shadow: inset 0 0 18px #fff,
-        inset -6px 0 18px #f3bad6,
-        inset 6px 0 18px #0ff,
-        inset -6px 0 30px #f3bad6,
-        inset 6px 0 30px #0ff,
+        inset -6px 0 18px orange,
+        inset 6px 0 18px orangered,
+        inset -6px 0 30px orange,
+        inset 6px 0 30px orangered,
         0 0 18px #fff, 4px 0 18px
-        #f3bad6, -4px 0 18px #0ff;
+        orange, -4px 0 18px orangered;
     }
 
     .paddle_2 {
         top: calc(85vh + 7.5vh - 100px - 55px);
         right: calc(10vw + 30px);
         box-shadow: inset 0 0 18px #fff,
-        inset 6px 0 18px #f3bad6,
-        inset -6px 0 18px #0ff,
-        inset 6px 0 30px #f3bad6,
-        inset -6px 0 30px #0ff,
-        0 0 18px #fff, -4px 0 18px
-        #f3bad6, 4px 0 18px #0ff;
+        inset -6px 0 18px orange,
+        inset 6px 0 18px orangered,
+        inset -6px 0 30px orange,
+        inset 6px 0 30px orangered,
+        0 0 18px #fff, 4px 0 18px
+        orange, -4px 0 18px orangered;
     }
 
     .player_1_score {
@@ -118,7 +118,7 @@
     <title>Pong Game</title>
 </head>
 <body>
-<h1>Pong Game</h1>
+<!--<h1>Pong Game</h1>-->
 
     <div class="board">
         <div class='ball'>

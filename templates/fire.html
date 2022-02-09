@@ -112,6 +112,8 @@
     <title>Pong Game</title>
 </head>
 <body>
+
+    <!-- Create game board and paddles -->
     <div class="board">
         <div class='ball'>
             <div class="ball_effect"></div>
@@ -126,6 +128,8 @@
     </div>
 
 <script>
+
+    // Global variables for paddle and ball positions
     let gameState = 'start';
     let paddle_1 = document.querySelector('.paddle_1');
     let paddle_2 = document.querySelector('.paddle_2');
@@ -143,14 +147,18 @@
     let paddle_common =
         document.querySelector('.paddle').getBoundingClientRect();
 
+    // Randomize ball movement
     let dx = Math.floor(Math.random() * 4) + 3;
     let dy = Math.floor(Math.random() * 4) + 3;
     let dxd = Math.floor(Math.random() * 2);
     let dyd = Math.floor(Math.random() * 2);
 
+    // Enter to start game
     document.addEventListener('keydown', (e) => {
         if (e.key == 'Enter') {
             gameState = gameState == 'start' ? 'play' : 'start';
+
+            // Animation frame to move ball when game starts
             if (gameState == 'play') {
                 message.innerHTML = 'Game Started';
                 message.style.left = 42 + 'vw';
@@ -163,6 +171,8 @@
                 });
             }
         }
+
+        // Player 1 up and down keys
         if (gameState == 'play') {
             if (e.key == 'w') {
                 paddle_1.style.top =
@@ -181,6 +191,7 @@
                 paddle_1_coord = paddle_1.getBoundingClientRect();
             }
 
+            // Player 2 up and down keys
             if (e.key == 'ArrowUp') {
                 paddle_2.style.top =
                     Math.max(
@@ -200,6 +211,7 @@
         }
     });
 
+    // Move ball and wall movement
     function moveBall(dx, dy, dxd, dyd) {
         if (ball_coord.top <= board_coord.top) {
             dyd = 1;
@@ -229,12 +241,14 @@
             ball_coord.left <= board_coord.left ||
             ball_coord.right >= board_coord.right
         ) {
+            // If ball hits the left or right wall, give points
             if (ball_coord.left <= board_coord.left) {
                 score_2.innerHTML = +score_2.innerHTML + 1;
             } else {
                 score_1.innerHTML = +score_1.innerHTML + 1;
             }
 
+            // Game over if a player scores 3 points
             if (score_1.innerHTML === "3") {
                 gameState = 'over';
                 message.innerHTML = 'Player 1 Wins';
@@ -252,6 +266,7 @@
                 return 1;
             }
 
+            // Otherwise, game has not finished yet and start again
             else {
                 gameState = 'start';
 
@@ -262,6 +277,8 @@
                 return;
             }
         }
+
+        // Move ball once game restarts
         ball.style.top = ball_coord.top + dy * (dyd == 0 ? -1 : 1) + 'px';
         ball.style.left = ball_coord.left + dx * (dxd == 0 ? -1 : 1) + 'px';
         ball_coord = ball.getBoundingClientRect();

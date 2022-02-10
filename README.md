@@ -42,6 +42,29 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 <br>
 
 
+## [Week 9 - Create Task Check] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/42))
+
+<table>
+   <tr>
+    <th>Team Member/Pair</th>
+    <th>PBL/Create Tasks</th>
+    <th>PBL/Create Task Wiki</th>
+   </tr>
+   <tr>
+    <td> Sanvi/Ellen </td>
+     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/12">Hangman Minigame</a> </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td> Kashish/Gennalyn </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/43">Maze Minigame</a> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Week-9---Create-Task-Check-(Kashish-and-Gennalyn)">Wiki</a>  </td>
+  </tr>
+ 
+</table>
+
+<br>
+
 ## [Week 8 - Crossover Coding] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/37))
 
 <table>

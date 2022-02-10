@@ -89,6 +89,10 @@ def FavoriteCharacter():
 def avatartime():
     return render_template("avatartime.html")
 
+@app.route("/ricknmorty/")
+def ricknmorty():
+    return render_template("ricknmorty.html")
+
 @app.route("/ExploreCharacters/")
 def ExploreCharacters():
     import requests

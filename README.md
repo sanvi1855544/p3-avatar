@@ -53,7 +53,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
    <tr>
     <td> Sanvi/Ellen </td>
      <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/12">Hangman Minigame</a> </td>
-    <td> <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Week-9-Create-Task-(Sanvi-and-Ellen)">Commits</a> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Week-9-Create-Task-(Sanvi-and-Ellen)">Wiki</a> </td>
   </tr>
   <tr>
     <td> Kashish/Gennalyn </td>

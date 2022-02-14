@@ -42,6 +42,9 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 <br>
 
 
+## [Week 10 - Final Exam] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/44))
+<br>
+
 ## [Week 9 - Create Task Check] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/42))
 
 <table>

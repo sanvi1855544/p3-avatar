@@ -42,6 +42,93 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 <br>
 
 
+## [Week 10 - Final Exam] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/44))
+
+<table>
+   <tr>
+    <th>Team Member/Pair</th>
+    <th>5.1-5.6 Video Notes</th>
+    <th>5.1-5.6 Quizzes/Corrections</th>
+    <th>MCQ Test/Corrections</th>
+   </tr>
+   <tr>
+    <td> Sanvi </td>
+     <td>  </td>
+    <td>  </td>
+     <td> </td>
+  </tr>
+  <tr>
+    <td> Ellen </td>
+    <td>  </td>
+    <td>  </td>
+    <td></td>
+  </tr>
+   <tr>
+    <td> Kashish </td>
+    <td>  </td>
+    <td> <a href="https://docs.google.com/document/d/1s7aPM6Q2mb_Ba0ue7QNVEkL2vNqTVHSdKhbxwLctMvQ/edit?usp=sharing">5.1-5.6 Quizzes/Corrections</a>  </td>
+     <td> </td>
+  </tr>
+   <tr>
+    <td> Gennalyn </td>
+    <td>  </td>
+    <td> <a href="https://docs.google.com/document/d/1uFYRSRubOxqIeiMgky7_R8zXoNxmaLlByX1LwElp6T8/edit?usp=sharing">5.1-5.6 Quizzes/Corrections</a>  </td>
+     <td></td>
+  </tr>
+   
+ 
+</table>
+
+<br>
+
+<table>
+   <tr>
+    <th>Team Member/Pair</th>
+    <th>Issue</th>
+    <th>Wiki</th>
+    <th>Video</th>
+   </tr>
+   <tr>
+    <td> Sanvi/Ellen </td>
+     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/42">Issue</a> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Week-9-Create-Task-(Sanvi-and-Ellen)">Wiki</a> </td>
+     <td> </td>
+  </tr>
+  <tr>
+    <td> Kashish/Gennalyn </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/42">Issue</a> </td> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Week-9---Create-Task-Check-(Kashish-and-Gennalyn)">Wiki</a> </td>
+    <td></td>
+  </tr>
+   
+   
+ 
+</table>
+<br>
+
+## [Week 9 - Create Task Check] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/42))
+
+<table>
+   <tr>
+    <th>Team Member/Pair</th>
+    <th>PBL/Create Tasks</th>
+    <th>PBL/Create Task Wiki</th>
+   </tr>
+   <tr>
+    <td> Sanvi/Ellen </td>
+     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/12">Hangman Minigame</a> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Week-9-Create-Task-(Sanvi-and-Ellen)">Wiki</a> </td>
+  </tr>
+  <tr>
+    <td> Kashish/Gennalyn </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/43">Maze Minigame</a> </td>
+    <td> <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Week-9---Create-Task-Check-(Kashish-and-Gennalyn)">Wiki</a>  </td>
+  </tr>
+ 
+</table>
+
+<br>
+
 ## [Week 8 - Crossover Coding] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/37))
 
 <table>

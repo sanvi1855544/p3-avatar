@@ -205,9 +205,9 @@
         <script>
             window.onload = function () {
 
-                var alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h',
-                    'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's',
-                    't', 'u', 'v', 'w', 'x', 'y', 'z'];
+                var alphabet = ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i',
+                    'o', 'p', 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l',
+                    'z', 'x', 'c', 'v', 'b', 'n', 'm'];
 
                 var categories;         // Array of topics
                 var chosenCategory;     // Selected category
@@ -237,6 +237,10 @@
                         list = document.createElement('li');
                         list.id = 'letter';
                         list.innerHTML = alphabet[i];
+                        if (i == 10 || i == 19) {
+                            linebreak = document.createElement('br');
+                            letters.appendChild(linebreak);
+                        }
                         check();
                         myButtons.appendChild(letters);
                         letters.appendChild(list);

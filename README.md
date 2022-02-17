@@ -98,7 +98,7 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
     <td> Kashish/Gennalyn </td>
     <td> <a href="https://github.com/sanvi1855544/p3-avatar/issues/42">Issue</a> </td> </td>
     <td> <a href="https://github.com/sanvi1855544/p3-avatar/wiki/Week-9---Create-Task-Check-(Kashish-and-Gennalyn)">Wiki</a> </td>
-    <td></td>
+    <td> <a href="https://drive.google.com/file/d/1bZNNys1XnM2e58jX8EcUvTMtB_8MngjU/view?usp=sharing">Video</a> </td>
   </tr>
    
    

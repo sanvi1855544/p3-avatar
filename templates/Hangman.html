@@ -199,6 +199,15 @@
                     padding:0 0 0 25px;
                 }
             }
+
+            div {
+                text-align: center;
+            }
+            #row {
+                display: inline-block;
+                margin: 0 auto;
+                width: 1000px;
+            }
         </style>
     </head>
     <body>
@@ -230,20 +239,60 @@
                 // create alphabet ul
                 var buttons = function () {
                     myButtons = document.getElementById('buttons');
-                    letters = document.createElement('ul');
 
-                    for (var i = 0; i < alphabet.length; i++) {
+                    row1 = document.createElement('div');
+                    row1.id = 'row';
+                    myButtons.appendChild(row1)
+
+                    for (var i = 0; i < 10; i++) {
+                        letters = document.createElement('ul');
                         letters.id = 'alphabet';
+
+                        row1.append(letters)
+
                         list = document.createElement('li');
                         list.id = 'letter';
                         list.innerHTML = alphabet[i];
-                        if (i == 10 || i == 19) {
-                            linebreak = document.createElement('br');
-                            letters.appendChild(linebreak);
-                        }
                         check();
-                        myButtons.appendChild(letters);
                         letters.appendChild(list);
+                        // letters.appendChild(list);
+                    }
+
+                    row2 = document.createElement('div');
+                    row2.id = 'row';
+                    myButtons.appendChild(row2)
+
+                    for (var i = 10; i < 19; i++) {
+
+                        letters = document.createElement('ul');
+                        letters.id = 'alphabet';
+
+                        row2.append(letters)
+
+                        list = document.createElement('li');
+                        list.id = 'letter';
+                        list.innerHTML = alphabet[i];
+                        check();
+                        letters.appendChild(list);
+                        // letters.appendChild(list);
+                    }
+
+                    row3 = document.createElement('div');
+                    row3.id = 'row';
+                    myButtons.appendChild(row3)
+
+                    for (var i = 19; i < 26; i++) {
+
+                        letters = document.createElement('ul');
+                        letters.id = 'alphabet';
+                        row3.append(letters)
+
+                        list = document.createElement('li');
+                        list.id = 'letter';
+                        list.innerHTML = alphabet[i];
+                        check();
+                        letters.appendChild(list);
+                        // letters.appendChild(list);
                     }
                 }
 

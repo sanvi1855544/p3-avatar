@@ -67,13 +67,13 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
     <td> Kashish </td>
     <td> <a href="https://docs.google.com/document/d/1CkhLq8AJDBAUb3tVP2G3xY6wGXJ5fkA6jDCeGzEjUNM/edit?usp=sharing">5.1-5.6 Video Notes</a> </td>
     <td> <a href="https://docs.google.com/document/d/1s7aPM6Q2mb_Ba0ue7QNVEkL2vNqTVHSdKhbxwLctMvQ/edit?usp=sharing">5.1-5.6 Quizzes/Corrections</a>  </td>
-     <td> <a href="https://docs.google.com/document/d/1s7aPM6Q2mb_Ba0ue7QNVEkL2vNqTVHSdKhbxwLctMvQ/edit?usp=sharing">MCQ Test/Correctionsn</a>  </td>
+     <td> <a href="https://docs.google.com/document/d/1s7aPM6Q2mb_Ba0ue7QNVEkL2vNqTVHSdKhbxwLctMvQ/edit?usp=sharing">MCQ Test/Corrections</a>  </td>
   </tr>
    <tr>
     <td> Gennalyn </td>
     <td> <a href="https://docs.google.com/document/d/1CkhLq8AJDBAUb3tVP2G3xY6wGXJ5fkA6jDCeGzEjUNM/edit?usp=sharing">5.1-5.6 Video Notes</a> </td>
     <td> <a href="https://docs.google.com/document/d/1uFYRSRubOxqIeiMgky7_R8zXoNxmaLlByX1LwElp6T8/edit?usp=sharing">5.1-5.6 Quizzes/Corrections</a>  </td>
-     <td> <a href="https://docs.google.com/document/d/1ZRAxNBCtbEAHYrqi1QiAEDEBhblCbCLzUS-M0Z7Co88/edit?usp=sharing">MCQ Test/Correctionsn</a> </td>
+     <td> <a href="https://docs.google.com/document/d/1ZRAxNBCtbEAHYrqi1QiAEDEBhblCbCLzUS-M0Z7Co88/edit?usp=sharing">MCQ Test/Corrections</a> </td>
   </tr>
    
  

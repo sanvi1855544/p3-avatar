@@ -42,6 +42,15 @@ Our website goal is to help relieve the stress of students here at Del Norte. At
 <br>
 
 
+
+## [Week 11 - PBL Final] [(Final Deployed Project)](http://54.153.91.79/)
+### [Week 11 - PBL Final Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/47)
+### [Video](https://drive.google.com/file/d/1stFGjuz9HqftvsyNKpkgTmeTADtdUL-K/view?usp=sharing)
+### [Create Task Pair Evaluation (Sanvi/Ellen)](https://github.com/sanvi1855544/p3-avatar/issues/2)
+### [Create Task Pair Evaluation (Kashish/Gennalyn)](https://github.com/sanvi1855544/p3-avatar/issues/46)
+
+<br>
+
 ## [Week 10 - Final Exam] ([Review Ticket](https://github.com/sanvi1855544/p3-avatar/issues/44))
 
 <table>
